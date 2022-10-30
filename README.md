@@ -1,12 +1,12 @@
 # Delrit : Ride-Sharing-App
 
-[![GitHub stars](https://img.shields.io/github/stars/gdscnitp/Delrit?style=for-the-badge)](https://github.com/gdscnitp/Delrit/stargazers) 
-[![My stars](https://img.shields.io/github/stars/SrijanShovit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/gdscnitp/Delrit/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/gdscnitp/Delrit?style=for-the-badge&logo=git)](https://github.com/gdscnitp/Delrit/network)
-[![Code size](https://img.shields.io/github/languages/code-size/gdscnitp/Delrit?style=for-the-badge)](https://github.com/gdscnitp/Delrit)
-[![Languages](https://img.shields.io/github/languages/count/gdscnitp/Delrit?style=for-the-badge)](https://github.com/gdscnitp/Delrit)
-[![Top](https://img.shields.io/github/languages/top/gdscnitp/Delrit?style=for-the-badge&label=Top%20Languages)](https://github.com/gdscnitp/Delrit)
-[![Issues](https://img.shields.io/github/issues/gdscnitp/Delrit?style=for-the-badge&label=Issues)](https://github.com/gdscnitp/Delrit)
+[![GitHub stars](https://img.shields.io/github/stars/gdscnitp/Delrit?style=for-the-badge)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App/stargazers) 
+[![My stars](https://img.shields.io/github/stars/SrijanShovit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/gdscnitp/Delrit?style=for-the-badge&logo=git)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App/network)
+[![Code size](https://img.shields.io/github/languages/code-size/gdscnitp/Delrit?style=for-the-badge)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App)
+[![Languages](https://img.shields.io/github/languages/count/gdscnitp/Delrit?style=for-the-badge)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App)
+[![Top](https://img.shields.io/github/languages/top/gdscnitp/Delrit?style=for-the-badge&label=Top%20Languages)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App)
+[![Issues](https://img.shields.io/github/issues/gdscnitp/Delrit?style=for-the-badge&label=Issues)](https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App)
 
 <p align="center"><img src="https://github.com/SrijanShovit/Ride-Sharing-App/blob/main/assets/images/delrit_1.png" alt="logo" width="400" height="200"/></p>
 
@@ -43,7 +43,7 @@ All
 
 1. Fork and Clone the project:
 ```
-  git clone https://github.com/gdscnitp/Delrit.git
+  git clone https://github.com/Sushobhit-Kumar-Singh/Delrit-A-Ride-Sharing-App.git
 ```
 
 2. Install the packages:
