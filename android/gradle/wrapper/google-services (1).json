@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668951391737",
+    "project_id": "delrit-f267a",
+    "storage_bucket": "delrit-f267a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668951391737:android:0ea35050589d4d7d15a128",
+        "android_client_info": {
+          "package_name": "com.delrit.ride_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668951391737-euct0dn0foadptj3g6ii0mdk231tl889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYgj6ANs7rTYosQSbJ5S76hltKOTKips"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668951391737-euct0dn0foadptj3g6ii0mdk231tl889.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
